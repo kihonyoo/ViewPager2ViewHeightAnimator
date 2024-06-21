@@ -26,42 +26,42 @@
             <com.google.android.material.button.MaterialButton
                 android:layout_width="wrap_content"
                 android:layout_height="56dp"
-                android:text="Button" />
+                android:text="@android:string/ok" />
 
             <com.google.android.material.button.MaterialButton
                 android:layout_width="wrap_content"
                 android:layout_height="56dp"
-                android:text="Button" />
+                android:text="@android:string/ok" />
 
             <com.google.android.material.button.MaterialButton
                 android:layout_width="wrap_content"
                 android:layout_height="56dp"
-                android:text="Button" />
+                android:text="@android:string/ok" />
 
             <com.google.android.material.button.MaterialButton
                 android:layout_width="wrap_content"
                 android:layout_height="56dp"
-                android:text="Button" />
+                android:text="@android:string/ok" />
 
             <com.google.android.material.button.MaterialButton
                 android:layout_width="wrap_content"
                 android:layout_height="56dp"
-                android:text="Button" />
+                android:text="@android:string/ok" />
 
             <com.google.android.material.button.MaterialButton
                 android:layout_width="wrap_content"
                 android:layout_height="56dp"
-                android:text="Button" />
+                android:text="@android:string/ok" />
 
             <com.google.android.material.button.MaterialButton
                 android:layout_width="wrap_content"
                 android:layout_height="56dp"
-                android:text="Button" />
+                android:text="@android:string/ok" />
 
             <com.google.android.material.button.MaterialButton
                 android:layout_width="wrap_content"
                 android:layout_height="56dp"
-                android:text="Button" />
+                android:text="@android:string/ok" />
 
 
         </LinearLayout>
